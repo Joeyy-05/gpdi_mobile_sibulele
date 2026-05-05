@@ -1,11 +1,11 @@
 {
-    "name": "gpdi_mobile_sibulele",
-    "short_name": "gpdi_mobile_sibulele",
+    "name": "gpdi_mobile",
+    "short_name": "gpdi_mobile",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Proyek PPL Sistem Informasi Gereja Sibulele",
+    "description": "Aplikasi Mobile Jemaat GPdI Sibulele",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
