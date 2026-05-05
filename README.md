@@ -1,6 +1,6 @@
-# gpdi_mobile_sibulele
+# gpdi_mobile
 
-Proyek PPL Sistem Informasi Gereja Sibulele
+Aplikasi Mobile Jemaat GPdI Sibulele
 
 ## Getting Started
 
